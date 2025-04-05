@@ -2,6 +2,8 @@
 
 This project is a Slot Booking System built with **Create React App**. It allows users to manage and book time slots while ensuring that no two users can book the same slot on the same date. The system tracks each user's bookings, preserving them even after re-login.
 
+**Live Website**: [Slot Booking System](https://slot-booking-virid.vercel.app/)
+
 ---
 
 ## Features
