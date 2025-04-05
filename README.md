@@ -34,7 +34,6 @@ This project is a Slot Booking System built with **Create React App**. It allows
 
    ```bash
    git clone https://github.com/krish3742/Slot-Booking-System.git
-   cd .\frontend\
    ```
 
 2. Install dependencies:
@@ -55,25 +54,24 @@ The application will be accessible at `http://localhost:3000`.
 ## Folder Structure
 
 ```
-Zelthy-assignment/
+Slot-Booking-System/
 │
-├── frontend/
-    └── src
-        ├── components
-        │   ├── Navbar.js
-        │   ├── Dashboard.js
-        │   ├── UserProfile.js
-        │   ├── PrivateRoute.js
-        |   └── Login.js
-        │
-        ├── store
-        │   ├── slices
-        │   │   ├── userSlice.js
-        │   │   └── slotsSlice.js
-        │   └── store.js
-        │
-        ├── theme.js
-        └── App.js
+└── src
+   ├── components
+   │   ├── Navbar.js
+   │   ├── Dashboard.js
+   │   ├── UserProfile.js
+   │   ├── PrivateRoute.js
+   |   └── Login.js
+   │
+   ├── store
+   │   ├── slices
+   │   │   ├── userSlice.js
+   │   │   └── slotsSlice.js
+   │   └── store.js
+   │
+   ├── theme.js
+   └── App.js
 ```
 
 ---
